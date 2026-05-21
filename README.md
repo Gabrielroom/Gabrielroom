@@ -1,4 +1,3 @@
-## Hi there 👋
 # </> Gabriel Buffoni
 
 **`Desenvolvedor FullStack`**
