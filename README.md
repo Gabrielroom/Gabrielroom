@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Buffoni, tenho 21 anos e sou apaixonado por tecnologia, desenvolvimento web e infraestrutura. Atualmente, curso Ciência da Computação e venho construindo minha trajetória através de projetos práticos Full Stack, buscando evoluir constantemente minhas habilidades como desenvolvedor. Tenho experiência com HTML5, CSS3, JavaScript, Node.js, Express.js e MySQL, além de conhecimentos em Linux, Git e redes adquiridos através dos estudos em Cisco Networking. Gosto de transformar ideias em aplicações funcionais, unindo Front-End, Back-End e banco de dados em projetos completos. 
+Me chamo Gabriel, tenho 21 anos e sou apaixonado por tecnologia, desenvolvimento web e infraestrutura. Atualmente, curso Ciência da Computação e venho construindo minha trajetória através de projetos práticos Full Stack, buscando evoluir constantemente minhas habilidades como desenvolvedor. Tenho experiência com HTML5, CSS3, JavaScript, Node.js, Express.js e MySQL, além de conhecimentos em Linux, Git e redes adquiridos através dos estudos em Cisco Networking. Gosto de transformar ideias em aplicações funcionais, unindo Front-End, Back-End e banco de dados em projetos completos. 
 Atualmente, estou desenvolvendo o projeto **Animes Room**, uma plataforma web criada para meu portfólio, onde uno minha paixão pela cultura japonesa com o desenvolvimento Full Stack. O projeto envolve criação de APIs REST, integração com banco de dados MySQL, renderização dinâmica de conteúdo e arquitetura Client-Server.
 
 <p align="left">
